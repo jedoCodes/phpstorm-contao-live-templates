@@ -5,6 +5,11 @@ A libary of PhpStorm Live Templates for Contao CMS
 ## Installation
 
 1. Go to PhpStorm Preferences | Tools | Settings Repository
+
+    Starting from version 2022.3, the Settings Repository plugin is not bundled with PhpStorm. 
+    It is still available for installation in JetBrains Marketplace. 
+
+
 2. Add Read-only Source https://github.com/pdir/phpstorm-contao-live-templates
 3. Restart PhpStorm
 
